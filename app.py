@@ -1,4 +1,4 @@
-
+import matplotlib.pyplot as plt
 import streamlit as st
 st.title('GIẢI PHƯƠNG TRÌNH BẬC NHẤT')
 a = st.number_input('Tham số a',0.00)
